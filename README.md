@@ -1,2 +1,4 @@
 # hello-world
-First repository
+Hello All,
+
+I'm Rasana. This is my world of data science learning..
